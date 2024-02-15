@@ -1,0 +1,14 @@
+.item-list-container {
+    padding: 20px;
+}
+
+.item-list-heading {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.item-list {
+    display: flex;
+    flexDirection: row;
+    gap: 20px;
+}
